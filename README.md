@@ -4,6 +4,8 @@ An interactive logistics analytics dashboard built with Python and Streamlit to
 explore delivery demand patterns, order composition, operational activity, and
 relationships between logistics variables using a real-world dataset.
 
+🔗 Live site: https://interactivelogisticsdemanddashboard.streamlit.app/
+
 ## Features
 
 - **Dashboard Overview** — KPI summary, demand distribution, weekday demand
