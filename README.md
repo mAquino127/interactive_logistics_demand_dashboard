@@ -23,6 +23,8 @@ This project uses the **Daily Demand Forecasting Orders** dataset (UCI Machine
 Learning Repository), which contains daily order volumes for a Brazilian
 logistics company across several operational categories.
 
+🔗 Dataset Source Link: https://archive.ics.uci.edu/dataset/409/daily+demand+forecasting+orders
+
 ## Project Structure
 
 ```
